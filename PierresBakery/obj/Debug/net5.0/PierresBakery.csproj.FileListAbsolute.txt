@@ -10,3 +10,7 @@ C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\obj\Debug\net5.0\Pie
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\obj\Debug\net5.0\PierresBakery.dll
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\obj\Debug\net5.0\ref\PierresBakery.dll
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\obj\Debug\net5.0\PierresBakery.pdb
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\bin\Debug\net5.0\PierresBakery.exe
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\bin\Debug\net5.0\PierresBakery.runtimeconfig.json
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\bin\Debug\net5.0\PierresBakery.runtimeconfig.dev.json
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\obj\Debug\net5.0\PierresBakery.genruntimeconfig.cache
