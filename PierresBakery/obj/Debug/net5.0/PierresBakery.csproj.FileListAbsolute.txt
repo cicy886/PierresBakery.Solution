@@ -1,0 +1,12 @@
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\bin\Debug\net5.0\PierresBakery.deps.json
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\bin\Debug\net5.0\PierresBakery.dll
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\bin\Debug\net5.0\ref\PierresBakery.dll
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\bin\Debug\net5.0\PierresBakery.pdb
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\obj\Debug\net5.0\PierresBakery.csprojAssemblyReference.cache
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\obj\Debug\net5.0\PierresBakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\obj\Debug\net5.0\PierresBakery.AssemblyInfoInputs.cache
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\obj\Debug\net5.0\PierresBakery.AssemblyInfo.cs
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\obj\Debug\net5.0\PierresBakery.csproj.CoreCompileInputs.cache
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\obj\Debug\net5.0\PierresBakery.dll
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\obj\Debug\net5.0\ref\PierresBakery.dll
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery\obj\Debug\net5.0\PierresBakery.pdb
