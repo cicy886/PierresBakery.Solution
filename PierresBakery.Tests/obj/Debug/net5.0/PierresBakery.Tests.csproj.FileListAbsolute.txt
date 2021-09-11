@@ -98,3 +98,4 @@ C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\ref\PierresBakery.Tests.dll
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.pdb
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.genruntimeconfig.cache
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\bin\Debug\net5.0\PierresBakery.exe
