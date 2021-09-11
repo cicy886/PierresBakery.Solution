@@ -4,8 +4,16 @@ namespace PierresBakery.Models
 {
   public class PierresBakeryUI
   {
+    public string Answer { get; }
+
+    public PierresBakeryUI(string answer)
+    {
+      Answer = answer;
+    }
+
     public static void Main ()
     {
+
       Console.WriteLine("Welcome to Pierre's Bakery!");
       Console.WriteLine("The products available in Pierre's Bakery are:");
       Console.WriteLine ("1. Bread.");
