@@ -1,5 +1,6 @@
 using System;
 using BreadPriceCheck.Models;
+using PastryPriceCheck.Models;
 
 namespace PierresBakery.Models
 {
@@ -30,22 +31,39 @@ namespace PierresBakery.Models
       string result = newPierresBakeryUI.Answer;
       Console.WriteLine("You chose " + result + ". Is it correct? Y/N");
       string confirmOneOrTwo = Console.ReadLine();
-      if (result == "1" && confirmOneOrTwo == "Y")
+      if (result == "1" && confirmOneOrTwo == "Y" || result == "1" && confirmOneOrTwo == "y")
       {
-        Console.WriteLine("Please type in how many bread you want:");
-        string stringNumberOfBread = Console.ReadLine();
-        int intNumberOfBread = int.Parse(stringNumberOfBread);
-        // Bread newBread = new Bread();
-        // newBread.TotalPrice();
+        AddBread();
       }
+      if (result == "2" && confirmOneOrTwo == "Y" || result == "2" && confirmOneOrTwo == "y")
+      {
+        AddPastry();
+      }
+      // if (confirmOneOrTwo == "N" || confirmOneOrTwo == "n"){
+      //   Main();
+      // }
+    }
+    static void AddBread()
+    {
+      Console.WriteLine("Please enter how many bread you want:");
+      string stringNumberOfBread = Console.ReadLine();
+      int intNumberOfBread = int.Parse(stringNumberOfBread);
+      Bread newBread = new Bread (intNumberOfBread);
+      int breadAmount = newBread.BreadAmount;
+      int finalPrice = newBread.SetTotalPrice();
+      Console.WriteLine("You ordered " + breadAmount + " loaf (loaves) of bread.");
+      Console.WriteLine("Your total price for bread is " + finalPrice + " dollors");
+    }
+    static void AddPastry()
+    {
+      Console.WriteLine("Please enter how many Pastry you want:");
+      string stringNumberOfPastry = Console.ReadLine();
+      int intNumberOfPastry = int.Parse(stringNumberOfPastry);
+      Pastry newPastry= new Pastry (intNumberOfPastry);
+      int pastryAmount = newPastry.PastryAmount;
+      int finalPrice = newPastry.SetTotalPrice();
+      Console.WriteLine("You ordered " + pastryAmount + " pastry (pastries).");
+      Console.WriteLine("Your total price for pastry (pastries) is " + finalPrice + " dollors");
     }
   }
 }
-
-//         Console.WriteLine("Please type in how many bread you want:");
-//         string stringNumberOfBread = Console.ReadLine();
-//         int intNumberOfBread = int.Parse(stringNumberOfBread);
-//         if (intNumberOfBread == 1) 
-//         {
-//           Console.WriteLine("You need to pay 5 dollors.");
-//         }
