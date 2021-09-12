@@ -87,7 +87,7 @@ namespace BreadPriceCheck.Tests
         newBread.SetTotalPrice();
 
         //Assert
-        Assert.AreEqual(25, newBread.SetTotalPrice());
+        Assert.AreEqual(20, newBread.SetTotalPrice());
       }
       //     [TestMethod]
       // public void SetPriceForBreadSix_SetPrice_Int()
