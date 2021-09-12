@@ -15,20 +15,20 @@ namespace BreadPriceCheck.Models
       Price = price;
     }
 
-    // public int setTotalPrice()
-    // {
-    //   //Buy 2, get 1 free (every 3rd loaf of bread is free.). A single loaf costs $5, two loaves costs $10, and three loaves cost $10.
-    //   if (BreadAmount % 3 == 0) 
-    //   {
-    //     Price = BreadAmount/3*10;
-    //   } 
-    //   else if (BreadAmount %3 != 0)
-    //   {
-    //     Price = (BreadAmount/3*10) + (BreadAmount % 3 * 5);
-    //   } 
+    public int SetTotalPrice()
+    {
+      //Buy 2, get 1 free (every 3rd loaf of bread is free.). A single loaf costs $5, two loaves costs $10, and three loaves cost $10.
+      if (BreadAmount % 3 == 0) 
+      {
+        Price = BreadAmount/3*10;
+      } 
+      else if (BreadAmount %3 != 0)
+      {
+        Price = (BreadAmount/3*10) + (BreadAmount % 3 * 5);
+      } 
 
-    //   return Price;
-    // }
+      return Price;
+    }
 
   }
 }
