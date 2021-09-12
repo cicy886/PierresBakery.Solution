@@ -48,7 +48,7 @@ namespace PastryPriceCheck.Tests
       newPastry.SetTotalPrice();
 
       //Assert
-      Assert.AreEqual(2, newPastry.SetTotalPrice());
+      Assert.AreEqual(4, newPastry.SetTotalPrice());
     }
   }
 }
