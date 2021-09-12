@@ -35,7 +35,7 @@ namespace BreadPriceCheck.Tests
         newBread.SetTotalPrice();
 
         //Assert
-        Assert.AreEqual(5, newBread.SetTotalPrice());
+        Assert.AreEqual(10, newBread.SetTotalPrice());
       }
       //     [TestMethod]
       // public void SetPriceForBreadTwo_SetPrice_Int()
