@@ -76,19 +76,19 @@ namespace BreadPriceCheck.Tests
         //Assert
         Assert.AreEqual(15, newBread.SetTotalPrice());
       }
-      //     [TestMethod]
-      // public void SetPriceForBreadFive_SetPrice_Int()
-      // {
-      //   //Arrange
-      //   int breadAmount = 5;
+          [TestMethod]
+      public void SetPriceForBreadFive_SetPrice_Int()
+      {
+        //Arrange
+        int breadAmount = 5;
 
-      //   //Act
-      //   Bread newBread = new Bread(breadAmount);
-      //   newBread.SetTotalPrice();
+        //Act
+        Bread newBread = new Bread(breadAmount);
+        newBread.SetTotalPrice();
 
-      //   //Assert
-      //   Assert.AreEqual(20, newBread.SetTotalPrice());
-      // }
+        //Assert
+        Assert.AreEqual(25, newBread.SetTotalPrice());
+      }
       //     [TestMethod]
       // public void SetPriceForBreadSix_SetPrice_Int()
       // {
