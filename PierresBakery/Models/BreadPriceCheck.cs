@@ -29,6 +29,5 @@ namespace BreadPriceCheck.Models
 
       return Price;
     }
-
   }
 }
