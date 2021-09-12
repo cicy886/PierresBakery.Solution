@@ -100,7 +100,7 @@ namespace BreadPriceCheck.Tests
         newBread.SetTotalPrice();
 
         //Assert
-        Assert.AreEqual(30, newBread.SetTotalPrice());
+        Assert.AreEqual(20, newBread.SetTotalPrice());
       }
   }
 }
