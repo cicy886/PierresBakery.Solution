@@ -15,7 +15,7 @@ ___________
 
 ## Program Setup instruction
 1. $ git clone https://github.com/cicy886/PierresBakery.Solution.git
-2. Navigate to **PierresBakery.Tests** and run the command dotnet restore from the terminal
+2. Navigate to **PierresBakery.Tests** and run the command **dotnet restore** from the terminal
 3. Run **$dotnet run** in **PierresBakery.Tests** directory to test the project functionality
 4. To run the program itself, navigate to PierresBakery directory and run **dotnet run**
 
