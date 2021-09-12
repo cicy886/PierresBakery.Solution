@@ -100,7 +100,7 @@ namespace PastryPriceCheck.Tests
       newPastry.SetTotalPrice();
 
       //Assert
-      Assert.AreEqual(12, newPastry.SetTotalPrice());
+      Assert.AreEqual(10, newPastry.SetTotalPrice());
     }
   }
 }
