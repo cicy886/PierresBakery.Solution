@@ -24,5 +24,18 @@ namespace PastryPriceCheck.Tests
       //Assert
       Assert.AreEqual(1, newPastry.PastryAmount);
     }
+    [TestMethod]
+    public void SetPriceForPastryOne_SetPrice_Int()
+    {
+      //Arrange
+      int pastryAmount = 1;
+
+      //Act
+      Pastry newPastry = new Pastry(pastryAmount);
+      newPastry.SetTotalPrice();
+
+      //Assert
+      Assert.AreEqual(1, newPastry.SetTotalPrice());
+    }
   }
 }
