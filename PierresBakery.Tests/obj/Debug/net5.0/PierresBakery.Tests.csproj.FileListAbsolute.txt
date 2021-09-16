@@ -1,11 +1,7 @@
-C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.csprojAssemblyReference.cache
-C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.AssemblyInfoInputs.cache
-C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.AssemblyInfo.cs
-C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.csproj.CoreCompileInputs.cache
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\bin\Debug\net5.0\PierresBakery.exe
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\bin\Debug\net5.0\PierresBakery.Tests.deps.json
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\bin\Debug\net5.0\PierresBakery.Tests.runtimeconfig.json
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\bin\Debug\net5.0\PierresBakery.Tests.runtimeconfig.dev.json
@@ -93,9 +89,13 @@ C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\bin\Debug\net5
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\bin\Debug\net5.0\PierresBakery.dll
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\bin\Debug\net5.0\PierresBakery.pdb
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.csprojAssemblyReference.cache
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.AssemblyInfoInputs.cache
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.AssemblyInfo.cs
+C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.csproj.CoreCompileInputs.cache
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.csproj.CopyComplete
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.dll
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\ref\PierresBakery.Tests.dll
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.pdb
 C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\obj\Debug\net5.0\PierresBakery.Tests.genruntimeconfig.cache
-C:\Users\cicys\Desktop\PierresBakery.Solution\PierresBakery.Tests\bin\Debug\net5.0\PierresBakery.exe
